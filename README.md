@@ -1,4 +1,6 @@
 SikuliX-2015
 ============
 
-SikuliX version 1.2.x to be released in 2015
+<hr>
+**Version 1.2.0-Beta1 underdevelopement**
+<hr>
