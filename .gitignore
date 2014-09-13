@@ -10,13 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/Project/Jygments4SikuliX/target/
-/Project/Tesseract4SikuliX/target/
-/Project/Guide/target/
-/Project/Remote/target/
 /sikulixstuff/Guide/target/
 /sikulixstuff/Jygments4SikuliX/target/
 /sikulixstuff/Remote/target/
 /sikulixstuff/Tesseract4SikuliX/target/
 /sikulix/target/
 /sikulixapi/target/
+
+*.versionsBackup
