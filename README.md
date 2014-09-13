@@ -9,9 +9,9 @@ SikuliX-2015
 
 **Forking and/or downloading this repo only makes sense:**
 
-if you want to get a knowledge about the internals of Sikuli
-if you want to create your own packages containing Sikuli features
-if you want to contribute.
+ - if you want to get a knowledge about the internals of Sikuli
+ - if you want to create your own packages containing Sikuli features
+ - if you want to contribute.
 
 <hr>
 
