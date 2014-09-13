@@ -7,6 +7,14 @@ SikuliX-2015
 **[latest stable version is 1.1.0](https://github.com/RaiMan/SikuliX-2014)** 
 <hr>
 
+**Forking and/or downloading this repo only makes sense:**
+
+if you want to get a knowledge about the internals of Sikuli
+if you want to create your own packages containing Sikuli features
+if you want to contribute.
+
+<hr>
+
 Maven module structure for developement
 ---
 
@@ -27,3 +35,5 @@ Prerequisites for development
 
  - a Java JDK 1.7+
  - Maven 3+
+ 
+I use **NetBeans 8+** for developemt.
