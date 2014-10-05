@@ -36,4 +36,4 @@ Prerequisites for development
  - a Java JDK 1.7+
  - Maven 3+
  
-I use **NetBeans 8+** for developemt.
+I use **NetBeans 8+** for developement.
