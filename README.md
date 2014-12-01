@@ -2,7 +2,7 @@
 ============
 
 <hr>
-**Version 1.2.0-Beta1 under developement** (starting somewhen in November 2014)
+**Version 1.2.0-Beta1 under developement** (starting somewhen in January 2015)
 <hr>
 **[latest stable version is 1.1.0](https://github.com/RaiMan/SikuliX-2014)** 
 <hr>
