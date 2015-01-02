@@ -12,6 +12,8 @@
  - if you want to get a knowledge about the internals of Sikuli
  - if you want to create your own packages containing Sikuli features
  - if you want to contribute.
+ 
+**In any case: be sure you know the content of the [SikuliX Quickstart](http://sikulix.com/http://www.sikulix.com/quickstart.html)**
 
 <hr>
 
