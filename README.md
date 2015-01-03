@@ -1,8 +1,8 @@
-[![RaiMan's Stuff](https://raw.github.com/RaiMan/SikuliX-2014-Docs/master/src/main/resources/docs/source/RaiManStuff64.png)](http://www.sikuli.org) SikuliX-2015 (version 1.2.x)
+[![RaiMan's Stuff](https://raw.github.com/RaiMan/SikuliX-2014-Docs/master/src/main/resources/docs/source/RaiManStuff64.png)](http://www.sikuli.org) SikuliX2 (version 2.0.x)
 ============
 
 <hr>
-**Version 1.2.0-Beta1 under developement** (starting somewhen in January 2015)
+**Version 2.0.0-Beta1 under developement** (starting somewhen in January 2015)
 <hr>
 **[latest stable version is 1.1.0](https://github.com/RaiMan/SikuliX-2014)** 
 <hr>
