@@ -1,0 +1,5 @@
+com/sikulix/entities/CommandLineBox.class
+com/sikulix/entities/ImageBox.class
+com/sikulix/tests/LinuxTests.class
+com/sikulix/tests/WindowsTests.class
+com/sikulix/entities/BaseTest.class
