@@ -28,9 +28,12 @@ the API to be used in Java and Java aware scripting languages
 
 the Sikuli IDE and the support for running scripts in a supported scripting language.
 
-**sikulixstuff**
+**sikulixtensions** 
 
-helper packages and extensions
+Packages that extend the SikuliX features in various ways.<br>
+On the usage and/or developement level they depend on the core features of sikulixapi or sikulix.
+
+---
 
 Prerequisites for development
 ---
