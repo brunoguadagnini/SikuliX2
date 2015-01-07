@@ -4,15 +4,13 @@
 	<!--
 	* Copyright 2010-2015, Sikuli.org, sikulix.com
 	* Released under the MIT License.
-	*
-	* RaiMan 2014
 	-->
 
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sikulix</groupId>
-	<artifactId>SikuliX-2015</artifactId>
-	<version>1.2.0-Beta1</version>
+	<artifactId>SikuliX2</artifactId>
+	<version>2.0.0-b1</version>
 
 	<!-- to globally change the pom version:
 	mvn versions:set -DnewVersion=1.1.0
@@ -43,8 +41,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sikuli.jartype>plain.xml</sikuli.jartype>
 		<sikuli.jarname>${project.version}</sikuli.jarname>
-		<sikulixvmaj>1</sikulixvmaj>
-		<sikulixvmin>2</sikulixvmin>
+		<sikulixvmaj>2</sikulixvmaj>
+		<sikulixvmin>0</sikulixvmin>
 		<sikulixvsub>0</sikulixvsub>
 		<sikulixbeta>1</sikulixbeta>
 		<!--   this decides, where setup downloads from   -->
@@ -56,8 +54,8 @@
 		-->
 		<sikuli.usedversion>${sikulixvmaj}.${sikulixvmin}.${sikulixvsub}</sikuli.usedversion>
 		<sikuli.minorversion>${sikulixvmaj}.${sikulixvmin}.${sikulixvsub}</sikuli.minorversion>
-		<sikulixjythonversion>2.7-b2</sikulixjythonversion>
-		<sikulixjrubyversion>1.7.13</sikulixjrubyversion>
+		<sikulixjythonversion>2.7-b3</sikulixjythonversion>
+		<sikulixjrubyversion>1.7.18</sikulixjrubyversion>
 		<sikulixlocalrepo>${settings.localRepository}</sikulixlocalrepo>
 		<sikuli.helpers>Setup/src/main/resources</sikuli.helpers>
 		<timestamp>${maven.build.timestamp}</timestamp>
